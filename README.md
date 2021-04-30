@@ -1,2 +1,2 @@
 # nodejs-pratice-1
-follow for
+nodejs follow alone
